@@ -12,7 +12,7 @@ const App = () => {
             React is Working
             <button onClick={() => dispatch(changeCount())}>Change counter</button>
             <div>
-                <h1>COunt: {count}</h1>
+                <h1>Count: {count}</h1>
             </div>
         </div>
     );
